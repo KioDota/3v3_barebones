@@ -1,0 +1,259 @@
+Netherward:
+-hits to destroy: 4 each -> 3/3/4/4
+-range: 1600 -> 1200
+
+Searing Arrows:
+-mana cost: 6/8/10/12 -> 10/12/14/16
+-damage: 20/30/40/50 -> 15/25/35/45
+
+
+
+
+
+[h1] Patch 0.3b [/h1]
+
+[u]Respawn[/u]
+-New Calculation: Hero Level * 3, max 35
+
+[u]Towers[/u]
+-HP 1600 -> 1200
+-HP Regen 2 -> 0
+
+-Several Bug Fixes
+
+Released it almost 3 hours ago. "Awaiting approval by Steam moderation staff."
+
+Update to 0.3
+
+TL; DR:
+-Halloween Event Theme
+-Entire Map reworked and enhanced
+-40 playable heroes which are Undead, Spirit, Skeletons, Beasts etc.
+-Respawn times reduced to: Hero Level * 2, max 30 seconds
+-Neutral Creeps spawn every minute; stacking automatically (experimental)
+
+[h1] Patch 0.3a [/h1]
+
+[u]Neutrals[/u]
+-Maximum spawns per camp: 3; 2 for Ancients
+-They wont spawn any more creeps, ever
+
+
+[h1] Patch 0.3 - Halloween Update [/h1]
+----------------------------
+
+[u]Objectives[/u]
+-Get 20 kills, as a team
+-Destroy both enemy towers, as a team
+Do one of these and you win the game!
+
+[u]Map Layout[/u]
+-Reduced the map size - blocked off by trees that are unpassable
+-Moved Fountains closer
+-Moved Creep Spawners closer
+-Moved Secret Shops next to Fountains
+-Reworked Mid Lane River Area and Stairs
+-Added new Paths for both teams near their Triangle Jungle
+-Added Stairways to Bottom River Cliff Ward Spots
+-Added Darker Lightning/Atmosphere
+
+[u]Heroes[/u]
+-[b]Playable Heroes during Halloween include:[/b]
+--Abbadon, AA, Bane, Bat, Beast, BS, Brood, CK, Clinkz, Willow, DP, Doom, 
+Drow, Earth/Ember/Storm, IO, Lich, LS, LD, Luna, Lycan, Medusa, Mirana, Necro, 
+NS, OD, Pudge, Pugna, TB, Underlord, Undying, Venge, Visage, Warlock, WD, WK
+-Necro's Reaper's Scythe, added Respawn time -> 15/20/30
+
+[u]Respawn Times[/u]
+-Calculation: Hero Level * 2; max 30 seconds
+
+[u]Towers[/u]
+-Towers are now Tier 2 - if fortified, they have Multi Shot
+-HP 1400 -> 1600
+-Health Regen 0 -> 2
+-Magical Resistance 15 -> 25
+-Last Hit Bounty 500
+
+[u]Neutrals[/u]
+-Automatic Stacking enabled
+--They will keep spawning every minute, so make sure you farm them
+
+[u]Flying Courier[/u]
+-Armor 10 -> 15
+-Movement Speed -> 550
+-HP 150 -> 250
+
+[u]Environment[/u]
+[b]This is part 1 of the Halloween design[/b]
+-92 props added (candles, pumpkins, tombstones etc.)
+-Map Tile Set changed to Autumn (has spooky things)
+-Improved Dire-Radiant Terrain transition on the bridge
+-Changed a million trees
+
+Known Bugs
+-Flying Courier changes were not applied
+-Dark, nightly Lightning wasn't applied
+-Dire Secret Shop may be floating for some reason but it's usable
+
+Stuff to come
+-more ability levels (normal 4 -> 6; ult 3 -> 4)
+-more thorough Halloween design
+-changing area next to the Ancients (more props; better design)
+-professional logos (already being worked on)
+-(Neutrals changed are very experimental)
+-adapting bounties and other values of Summones/Illusions/Clones
+-anything I get from constructive feedback :)
+
+
+--------------
+[h1] Patch 0.2a [/h1]
+
+
+[u]Bug Fixes[/u]
+-Bridge Cliff Wardspot's visual box was too big; forced placing Wards from odd angles
+-Creep Pathing: Dire Creeps walked past Radiant Bot T1 (Acquisition Range adapted and Tower moved)
+-Radiant Stash is now in Shop/Courier Range again
+
+[u]Balance Changes[/u]
+-Lane Creeps: 
+--Acquisition Range 500/600/800 -> 1000 //Range at which Creeps can draw aggro
+--Melee: HP 800 -> 700
+--Ranged: HP 400 -> 350
+--Siege: HP 1000 -> 900
+-Each team's tower cliff wards are harder to access for opposing team due to being blocked by new trees
+-Towers:
+--[b]Now using Tier 2 Towers for BackDoor and MultiShot (if fortified) features[/b]
+--Same values as in Patch 0.2; except the following
+--Attack Rate 0.5 -> 0.75 (lowered; default is 1)
+--Attack Range 700 -> 750
+--HP 1800 -> 1400
+
+[u]NEXT[/u]
+-Move Fountain and double-tap TP home
+
+
+--------------
+[h1] Patch 0.2 [/h1]
+--------------
+
+
+[u]Tier 1 Towers[/u]
+-Armor 12 -> 18
+-Magic Resistance 0 -> 15
+-Damage 100-120 -> 140-180
+-Attack Rate 1 -> 0.5 (They attack twice as fast now)
+
+[u]Map Layout Changes[/u]
+-Play Area marked/restricted with tree lines across the entire map
+-Triangle Shrines removed on both sides (Top for Radiant, Bot for Dire)
+-Main Jungle's Shrines moved much closer to the Mid Lane
+-Radiant Bot Bounty Rune moved closer
+
+[u]Home Shop[/u]
+-Moved between T2 and T3 Towers
+-Shopkeeper, Stash and Courier Location as well
+-Fountain and double-tap TP are still in their original location
+
+[u]Next Future Changes[/u]
+-Side & Secret Shops
+-Moving the Fountain
+-Neutrals and Roshan
+
+
+--------------
+[h1] Patch 0.1b [/h1]
+--------------
+
+
+[u]Rune Changes[/u]
+-All Runes spawn at 0:00
+-They spawn at their original intervals again 
+(2 minutes = Power Runes; 5 minutes = Bounty Runes)
+
+[u]Courier Changes[/u]
+-Movement Speed 380 -> 400
+-Bounty Gold 125 -> 250
+-Health 75 -> 125
+-Vision Range 350 -> 500
+
+[u]Lane Creeps[/u]
+Siege Creeps:
+[b]-Can now be dominated[/b]
+-Armor 0 -> 5
+-Attack Rate 3.0 -> 2.5
+-Attack Range 690 -> 600
+-Bounty Gold 66-88 -> 132-160 [XP unchanged]
+-Health 875 -> 1000
+-Damage 35-46 -> 49-60
+
+Ranged Creeps:
+-Armor 0 -> 2
+-Magic Resistance 15 -> 20
+-Damage 21-26 -> 30-37
+-Health 300 -> 400
+
+Melee Creeps:
+-Armor 2 -> 3
+-Magic Resistance 15 -> 25
+-Damage 19-23 -> 27-32
+-Health 550 -> 800
+-Health Regen 0.5 -> 4
+-Base Mana 0 -> 50
+[Thinking about giving them Stout Shields; Super Creeps -> Vanguard+Hood? :O]
+
+
+For tomorrow:
+Jungle, Shops and Shrines
+Later:
+Terrain Blending, Optimizing Visualization, Lightning and (Halloween) Tile Sets; Game Settings (Mode, Objective)
+--------------
+[h1] Patch 1.1 [/h1]
+--------------
+
+[u]Map Layout Changes[/u]
+-[b]All Runes start spawning at 0:00 to encourage fighting as in 6.88?[/b]
+All Runes spawn every single minute (idk why, shouldn't be like this?)
+-Moved all Bounty Runes much closer to the Middle Lane
+-Top Power Rune is now located on the Bridge rather than behind it, adapted positioning of Trees next to it
+-Added cliff wards near each team's triangle which can be used be either side, but Towers grant True Sight over half the cliffs (be careful when placing one on the enemy side)
+-Reduced the medium camp's spawn box near Radiant T1 (Tower do not attack Neutral Creeps)
+
+[u]Lane Creeps[/u]
+-Melee and Ranged Lane Creeps now have 15% Magic Resistance
+-No changes to Siege Creeps yet
+
+[u]Bug Fixes[/u]
+-Rock near top T1 has been removed
+
+--------------
+[h1] Patch One [/h1]
+--------------
+
+[u]Map Layout Changes[/u]
+-Widened river area
+-Added bridge on the left side of the Mid Lane 
+-Adapted stairs (Paths)
+-Added lots of trees - even in the river - to use for spells, Tangos, blocking paths (including vision; tower vision in particular)
+-Moved all 4 Mid T1s further back
+-Moved both Power Rune spawn location closer - they start spawning at 0:00
+-Added 2 cliff ward spots, blocked by a single tree each near the bottom Power Rune
+-Added 1 big, centered cliff ward spot on the bridge
+
+-Removed objects of the side Lanes
+
+[u]Gold/XP Changes[/u]
+-Ranged and Melee Creeps now grant 3x the original XP and 2x the original Gold
+-No changes to Siege Creep yet
+
+
+[u]TO DO: Thoughts & Fixes [Help wanted here! Please share your ideas][/u]
+-Goal of the game? How do you win?
+-Positioning and Relevance of:
+	-Shrines, Shops (Normal, Secret, Side)
+	-Other Towers
+	-Roshan
+	-Neutrals
+-Fixing the Texture blending on the bridge
+-Removing that fucking stone I forgot near Radiant Top T1'
+-Possibly changing the tree-block-pathing thing at the bottom river trees
+-Moving left Radiant T1 slightly more to the bottom-right (for the cliff ward; or vice versa on the right Dire T1 as it doesn't grant True Sight over the entire cliff - yet, the center)

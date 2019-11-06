@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+  "TeamCount" "2"
+  "maps"      "3v3"
+  "IsPlayable"  "1"
+  "3v3"
+  {
+          "MaxPlayers"                    "6"
+  }
+}
